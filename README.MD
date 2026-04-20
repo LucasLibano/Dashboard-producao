@@ -1,4 +1,4 @@
-- Dashboard de Produção – Power BI
+Dashboard de Produção – Power BI
 
 - Sobre o projeto
 
