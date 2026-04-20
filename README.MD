@@ -1,6 +1,4 @@
-# 📊 Dashboard de Produção – Power BI
-
-![Dashboard de Produção](Dashboard_produção.png)
+#  Dashboard de Produção – Power BI
 
 ## Sobre o projeto
 
