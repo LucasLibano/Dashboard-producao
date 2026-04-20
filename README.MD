@@ -20,11 +20,11 @@ Adicionei elementos visuais, como plano de fundo do dashboard
 
 Antes de iniciar a construção no Power BI, defini os principais indicadores que seriam analisados:
 
-Total de horas trabalhadas
-Produtividade
-Eficiência
-Total de itens produzidos
-Peças aprovadas e rejeitadas
+Total de horas trabalhadas,
+Produtividade,
+Eficiência,
+Total de itens produzidos,
+Peças aprovadas e rejeitadas,
 
 - Tratamento de dados (Power BI)
 
